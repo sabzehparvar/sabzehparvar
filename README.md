@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sabzehparvar
-- I’m a junior React developer
+- I’m a React developer
 
 <!---
 sabzehparvar/sabzehparvar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
