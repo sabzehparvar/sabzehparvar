@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://sabzeparvar.com" target="_blank">Portfolio</a> ·
-  <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a> ·
-  <a href="mailto:your.email@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/mojtaba-sabzehparvar" target="_blank">LinkedIn</a> ·
+  <a href="mailto:sabzehparvar.mojtaba@gmail.com">Email</a>
 </p>
 
 ---
